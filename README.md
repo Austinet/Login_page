@@ -3,7 +3,7 @@ This is a task from Uncle BB and friends challenge 1
 # Uncle BigBay and friends - login form Solution
 
 
-## Table of contents
+## Table Of Contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)

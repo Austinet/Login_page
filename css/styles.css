@@ -102,7 +102,9 @@
         }
     }
     @media screen and (max-width:450px){
-    
+            h2{
+                 text-align:center;
+              }
             a {
                 font-size: 12px;
             }
